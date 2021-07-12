@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Images
+*.jpg
+*.png
+
+# System trash
+.Trash-*
+
