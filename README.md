@@ -5,5 +5,6 @@
 
 ## 설명
 각 파일은 아래와 같은 내용을 다루고 있습니다.
+* `GAN.ipynb`: GAN을 이용한 MNIST 데이터 생성
 * `MNIST.ipynb`: FCN와 CNN을 이용한 MNIST 데이터의 분류
 * `Style Transfer`: `VGG-19`를 이용한 style transfer
