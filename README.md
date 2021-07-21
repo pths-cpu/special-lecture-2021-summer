@@ -11,7 +11,7 @@ FCN과 CNN을 이용한 MNIST 데이터 분류 [여기](./MNIST.ipynb)
 ![mnist_result](./images/mnist_classification_result.png)
 
 ### Style Transfer
-VGG-19를 이용한 스타일 전이 [여기](./Style\ Transfer.ipynb)
+VGG-19를 이용한 스타일 전이 [여기](./Style%20Transfer.ipynb)
 
 ### GAN
 DCGAN과 CGAN을 이용한 MNIST 데이터 생성 [여기](./GAN.ipynb)
