@@ -15,4 +15,4 @@ VGG-19를 이용한 스타일 전이 [여기](./Style%20Transfer.ipynb)
 
 ### GAN
 DCGAN과 CGAN을 이용한 MNIST 데이터 생성 [여기](./GAN.ipynb)
-
+![cgan_result](./images/cgan_result.gif)
