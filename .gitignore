@@ -8,3 +8,5 @@
 # System trash
 .Trash-*
 
+# Track document images
+!images/*
